@@ -13,7 +13,7 @@ https://github.com/deyvisondantas/bingo-biblico
 https://deyvisondantas.github.io/bingo-biblico/
 
 **Encurtado:**
-https://abre.ai/bingo-biblico 
+ https://bit.ly/bingo-biblico
 
 ## ✨ Funcionalidades
 
