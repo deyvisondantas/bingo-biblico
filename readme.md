@@ -41,19 +41,6 @@ lista numerada de personagens.
 > Dica: para facilitar o acesso pelo GitHub Pages, coloque a página
 > completa na raiz do repositório com o nome `index.html`.
 
-## Publicar com GitHub Pages
-
-1.  Envie o arquivo HTML completo para a raiz do repositório e
-    renomeie-o para `index.html`.
-2.  Envie também os PDFs originais, caso queira disponibilizá-los
-    separadamente.
-3.  No GitHub, abra **Settings → Pages**.
-4.  Em **Build and deployment**, selecione **Deploy from a branch**.
-5.  Escolha a branch principal (normalmente `main`) e a pasta
-    `/ (root)`, depois salve.
-6.  Aguarde a publicação. O GitHub exibirá o endereço público do site na
-    seção Pages.
-
 ## Arquivos do projeto
 
 Sugestão de organização:
