@@ -1,67 +1,89 @@
-# Bingo Bíblico
+# 🎱 Bingo Bíblico
 
-Uma ferramenta simples para realizar um bingo com personagens bíblicos.
-O projeto reúne um sorteador digital, cartelas para impressão e uma
-lista numerada de personagens.
+Um jogo interativo e educativo para aprender e recordar personagens da Bíblia de forma divertida!
 
-## O que está incluído
+O **Bingo Bíblico** foi desenvolvido para utilização em igrejas, escolas bíblicas, encontros de grupos, eventos e atividades de integração.
 
--   **Sorteador digital:** apresenta os personagens sorteados e seus
-    números correspondentes.
--   **100 cartelas em PDF:** organizadas para impressão, com quatro
-    cartelas por folha A4.
--   **Lista de personagens em PDF:** relação numerada para consulta e
-    conferência.
--   **Modo offline:** a página HTML completa incorpora os PDFs; depois
-    de baixar o arquivo, é possível utilizá-lo sem conexão com a
-    internet.
+## 🌐 Acesse o projeto
 
-## Como jogar
+**Repositório:**  
+https://github.com/deyvisondantas/bingo-biblico
 
-1.  Entregue uma cartela para cada participante.
-2.  Abra o sorteador na página HTML e inicie o sorteio.
-3.  Quando um personagem aparecer, cada participante procura o nome ou o
-    número correspondente em sua cartela e marca a casa.
-4.  A casa central identificada como **LIVRE** já pode ser considerada
-    marcada.
-5.  Antes de começar, combine qual será a condição de vitória: uma
-    linha, uma coluna, uma diagonal ou a cartela completa.
+**Site:**  
+https://deyvisondantas.github.io/bingo-biblico/
 
-## Como usar
+## ✨ Funcionalidades
 
-1.  Baixe o arquivo HTML disponibilizado na seção de arquivos do
-    projeto.
-2.  Abra-o em um navegador atualizado, como Chrome, Edge ou Firefox.
-3.  Na aba **Sorteador**, realize os sorteios.
-4.  Na aba **Arquivos e instruções**, consulte as orientações e baixe os
-    PDFs.
-5.  Para usar offline, salve o HTML no dispositivo e abra o arquivo
-    localmente no navegador.
+- 🎲 **Sorteador digital:** sorteio aleatório dos personagens bíblicos.
+- 🔢 **Numeração dos personagens:** cada personagem possui um número de identificação para facilitar o acompanhamento.
+- 📋 **Lista de personagens:** relação dos personagens utilizados no jogo.
+- 🎫 **Cartelas para impressão:** arquivo PDF com 100 cartelas diferentes.
+- 📄 **Lista em PDF:** material de consulta com os personagens bíblicos.
+- 📥 **Downloads:** área dedicada para baixar os materiais necessários.
+- 📱 **Interface simples:** fácil utilização em computadores, tablets e celulares.
 
-> Dica: para facilitar o acesso pelo GitHub Pages, coloque a página
-> completa na raiz do repositório com o nome `index.html`.
+## 🎯 Como funciona o Bingo Bíblico?
 
-## Arquivos do projeto
+1. Distribua uma cartela para cada participante.
+2. Abra o sorteador digital em um computador ou celular.
+3. Clique no botão para sortear um personagem.
+4. Anuncie o nome sorteado para os participantes.
+5. Cada participante deverá procurar o personagem em sua cartela e marcar, caso esteja presente.
+6. Continue os sorteios até que alguém complete a combinação necessária para vencer.
 
-Sugestão de organização:
+## 🎫 Sobre as cartelas
 
-``` text
-bingo-biblico/
-├── index.html
-├── bingo_biblico_100_cartelas_letra_maior.pdf
-├── lista_personagens_biblicos.pdf
-└── README.md
+O material disponibiliza **100 cartelas diferentes**, organizadas em quatro cartelas por folha A4.
+
+Os números pequenos ao lado dos nomes servem como referência para facilitar a identificação dos personagens durante a atividade.
+
+## 📦 Materiais disponíveis
+
+- PDF com 100 cartelas para impressão.
+- PDF com a lista dos personagens bíblicos.
+- Sorteador digital interativo.
+
+Os arquivos podem ser acessados pela área de downloads da página.
+
+## 🚀 Como executar o projeto
+
+O projeto foi desenvolvido em HTML, CSS e JavaScript.
+
+Não é necessário instalar programas ou configurar um servidor.
+
+Para utilizar localmente:
+
+1. Baixe ou clone este repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Utilize o sorteador normalmente.
+
+### Clonar o repositório
+
+```bash
+git clone https://github.com/deyvisondantas/bingo-biblico.git
 ```
 
-## Observações
+Entre na pasta:
 
--   O sorteador é uma ferramenta de apoio para a dinâmica do bingo.
--   Defina previamente a regra de vitória e a forma de validação do
-    vencedor.
--   Recomenda-se testar a página e imprimir uma cartela antes de iniciar
-    a atividade.
+```bash
+cd bingo-biblico
+```
 
-------------------------------------------------------------------------
+Abra o arquivo `index.html` no navegador.
 
-Feito para apoiar momentos de comunhão, diversão e aprendizado da
-Bíblia.
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## ❤️ Propósito
+
+Promover aprendizado, interação e conhecimento bíblico de maneira leve, divertida e acessível.
+
+**Que este jogo seja uma ferramenta de comunhão e aprendizado da Palavra de Deus!**
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela neste repositório!
