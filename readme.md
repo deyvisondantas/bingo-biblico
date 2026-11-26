@@ -12,6 +12,9 @@ https://github.com/deyvisondantas/bingo-biblico
 **Site:**  
 https://deyvisondantas.github.io/bingo-biblico/
 
+**Encurtado:**
+https://abre.ai/bingo-biblico 
+
 ## ✨ Funcionalidades
 
 - 🎲 **Sorteador digital:** sorteio aleatório dos personagens bíblicos.
